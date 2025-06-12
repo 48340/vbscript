@@ -15,13 +15,13 @@ Example:
 
 How to use two numeric literals...to output a sum total: 
 
-> MsgBox(1+1  )
+> MsgBox(1+2  )
 
 ...output...  
 
-> 2  
+> 3 
 
-How to output a string literal text(surround the text to be output inside a pair of double quote marks(""):
+How to output a string literal text...surround the text string to be output inside a pair of double quote marks(""):
 
 > MsgBox("Hello, world!")
 
