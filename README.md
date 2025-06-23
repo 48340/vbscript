@@ -35,4 +35,4 @@ How to output both string literals/with numeric literals
 
 ...output...
 
-> 2
+> 1 + 1 = 2
