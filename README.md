@@ -29,4 +29,10 @@ How to output a string literal text...surround the text string to be output insi
 
 > Hello, world!
 
+How to output both string literals/with numeric literals
 
+> MsgBox("1 + 1 = " + CStr(1+1))
+
+...output...
+
+> 2
